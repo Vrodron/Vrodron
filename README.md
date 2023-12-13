@@ -1,7 +1,7 @@
 Hi, I’m Veronika,
 
 a data scientist with specific passion in remote sensing and data pipline creation.
-One example of a flight planning tool which I developed with @tretterlbach can be found here:
+One example of a flight planning tool which I developed with @trettelbach can be found here:
 https://github.com/awi-response/garmin_fpl/tree/GTN750_flightplanning
 
 I’m currently taking a deep dive into deep learning structures for point cloud analysis.
