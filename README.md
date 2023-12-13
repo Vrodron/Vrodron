@@ -9,5 +9,4 @@ For this I am really happy about the effort of @HuguesTHOMAS in establishing a v
 I adapted the code for an application of a recently published forest-LiDAR dataset which can be found together with the KPConv-model routines 
 in the repository KPConv-Pytorch_FORinstance.
 
-📫 How to reach me: vronidoepper@gmail.com
-
+📫 How to reach me: www.linkedin.com/in/veronika-doepper
